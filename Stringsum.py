@@ -1,0 +1,5 @@
+s=input('Enter the string: ')
+k=len(s)
+print(k)
+sum(ord(ch) for ch in s)
+print(sum)
