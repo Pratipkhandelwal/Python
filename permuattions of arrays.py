@@ -1,6 +1,6 @@
 from itertools import permutations
 
-a = [1,2,3,5]
+a = [1,2,3]
 
 perms = set()
 for perm in permutations(a):
