@@ -2,8 +2,8 @@ import numpy
 
 n,m = map(int,raw_input().split())
 my_array = numpy.array([raw_input().strip().split() for _ in range(n)],int)
-print numpy.transpose(my_array)
-print (my_array).flatten()
+print (numpy.transpose(my_array))
+print ((my_array).flatten())
 
 
 

@@ -6,9 +6,4 @@ for i in range(0,len(s)):
 
 print(a)
 print(sorted(a))
-
-my = ''.join(map(str, sorted(a)))
-print(my)   
-for z in range(q):
-    p,m = map(int,input().split())
      
