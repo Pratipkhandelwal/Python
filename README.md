@@ -1,3 +1,4 @@
-# Pythonic 
+# Pythonic Code DataBase
 
-Contains Python codes from hackerearth , codechef and other competitive contests.  
+This repo contains Python codes from Hackerearth, Codechef and other Competitive Contests. 
+
